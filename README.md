@@ -1,2 +1,2 @@
-# web-test hola wawa
+# web-test
 web page test
